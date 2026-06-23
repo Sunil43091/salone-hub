@@ -1,17 +1,17 @@
   :root{
-  --bs-blue: #C7A17A;
-  --bs-indigo: #B08968;
-  --bs-purple: #9C7C5A;
-  --bs-pink: #D8B4A0;
-  --bs-red: #C97B63;
-  --bs-orange: #D4A373;
-  --bs-yellow: #E9C46A;
-  --bs-green: #7A9E7E;
-  --bs-teal: #8CA89A;
-  --bs-cyan: #A8C3BC;
+  --bs-blue: #00bfff;
+  --bs-indigo: #00bfff;
+  --bs-purple: #00bfff;
+  --bs-pink: #00bfff;
+  --bs-red: #00bfff;
+  --bs-orange: #00bfff;
+  --bs-yellow: #00bfff;
+  --bs-green: #00bfff;
+  --bs-teal: #00bfff;
+  --bs-cyan: #00bfff;
   --bs-white: #FFFFFF;
-  --bs-gray: #7D7D7D;
-  --bs-gray-dark: #3E3E3E;
+  --bs-gray: #00bfff;
+  --bs-gray-dark: #00bfff;
   /* Main Salon Theme */
   --bs-primary: #00bfff;      /* Coffee Brown */
   --bs-secondary: #00bfff;    /* Dark Taupe */
